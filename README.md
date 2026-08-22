@@ -1,4 +1,5 @@
-_____AI Resume Portfolio Generator
+AI Resume Portfolio Generator
+
 An interactive web application that transforms plain-text resumes into professional, multi-themed portfolio websites instantly using Gemini 3.5 flash.
 ## How it Works
 1. Input: Users can paste raw resume text or select the "Sample Portfolio" mode (which uses a pre-loaded resume.txt).
